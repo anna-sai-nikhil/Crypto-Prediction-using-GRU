@@ -4,4 +4,5 @@
 - The output feature predicted is close price
 ## Preprocessing
 - For scaling the MinMaxScaler from sklearn libray is used.
-- 
+## Results
+- RSME of $5 is archived
